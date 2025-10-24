@@ -15,6 +15,7 @@ int main() {
     difference = num1 - num2;
     product = num1 * num2;
     quotient = num1 / num2;
+    
     printf("Sum: %f\n", sum);
     printf("Difference: %f\n", difference);
     printf("Product: %f\n", product);
